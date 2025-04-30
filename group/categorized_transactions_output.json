@@ -1,0 +1,692 @@
+[
+  {
+    "transaction_id": 1,
+    "description": "Expect series shake art again our.",
+    "amount": 6478.39,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 2.3169384002685547
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Revenue",
+        "runtime_sec": 12.115001678466797
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Liability",
+        "runtime_sec": 3.427868127822876
+      }
+    ]
+  },
+  {
+    "transaction_id": 2,
+    "description": "Each left similar likely coach take.",
+    "amount": 1255.95,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 0.9740245342254639
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 9.34118103981018
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Asset",
+        "runtime_sec": 1.1502723693847656
+      }
+    ]
+  },
+  {
+    "transaction_id": 3,
+    "description": "Direction wife job pull determine leader move college.",
+    "amount": 7969.68,
+    "type": "debit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.151280403137207
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 7.812612056732178
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Asset",
+        "runtime_sec": 0.10954117774963379
+      }
+    ]
+  },
+  {
+    "transaction_id": 4,
+    "description": "Agree reveal buy black already.",
+    "amount": 2927.41,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 0.3444192409515381
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Liability",
+        "runtime_sec": 9.009164333343506
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.7700695991516113
+      }
+    ]
+  },
+  {
+    "transaction_id": 5,
+    "description": "Child relationship show college whom speech.",
+    "amount": 4661.88,
+    "type": "debit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 0.49063825607299805
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Revenue",
+        "runtime_sec": 6.771148920059204
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Expense",
+        "runtime_sec": 1.692518711090088
+      }
+    ]
+  },
+  {
+    "transaction_id": 6,
+    "description": "Century front item.",
+    "amount": 3649.68,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Asset",
+        "runtime_sec": 0.4910612106323242
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 15.689690351486206
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.6168475151062012
+      }
+    ]
+  },
+  {
+    "transaction_id": 7,
+    "description": "Market cover loss hotel send.",
+    "amount": 504.24,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Expense",
+        "runtime_sec": 0.2019968032836914
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Expense",
+        "runtime_sec": 5.4922096729278564
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Expense",
+        "runtime_sec": 0.1092684268951416
+      }
+    ]
+  },
+  {
+    "transaction_id": 8,
+    "description": "Trouble reason speak involve.",
+    "amount": 8088.01,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Unknown",
+        "runtime_sec": 0.7761318683624268
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 6.2571821212768555
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Revenue",
+        "runtime_sec": 3.086533308029175
+      }
+    ]
+  },
+  {
+    "transaction_id": 9,
+    "description": "Popular three war arm best.",
+    "amount": 3006.3,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.5535509586334229
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 8.186192989349365
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.694697618484497
+      }
+    ]
+  },
+  {
+    "transaction_id": 10,
+    "description": "Old see watch no.",
+    "amount": 1008.62,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 2.441671371459961
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 9.466984510421753
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Asset",
+        "runtime_sec": 0.10819625854492188
+      }
+    ]
+  },
+  {
+    "transaction_id": 11,
+    "description": "Million explain rule boy agree can.",
+    "amount": 4615.87,
+    "type": "debit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 0.6737651824951172
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 6.264115333557129
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Asset",
+        "runtime_sec": 1.6162071228027344
+      }
+    ]
+  },
+  {
+    "transaction_id": 12,
+    "description": "Us save attention interest country short.",
+    "amount": 405.19,
+    "type": "debit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Other",
+        "runtime_sec": 1.0471558570861816
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 10.609288930892944
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Expense",
+        "runtime_sec": 0.11033320426940918
+      }
+    ]
+  },
+  {
+    "transaction_id": 13,
+    "description": "Media organization structure their cut not where few.",
+    "amount": 5938.56,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.6636815071105957
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Expense",
+        "runtime_sec": 7.4605536460876465
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Asset",
+        "runtime_sec": 1.9262778759002686
+      }
+    ]
+  },
+  {
+    "transaction_id": 14,
+    "description": "Available smile make star majority.",
+    "amount": 3516.95,
+    "type": "debit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 0.8866961002349854
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 6.77741003036499
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Asset",
+        "runtime_sec": 0.10941267013549805
+      }
+    ]
+  },
+  {
+    "transaction_id": 15,
+    "description": "Fund house head course around strategy lead.",
+    "amount": 9454.59,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Expense",
+        "runtime_sec": 0.20323944091796875
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Revenue",
+        "runtime_sec": 16.122259378433228
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Revenue",
+        "runtime_sec": 2.510085344314575
+      }
+    ]
+  },
+  {
+    "transaction_id": 16,
+    "description": "Main few character air.",
+    "amount": 3415.26,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Asset",
+        "runtime_sec": 0.3807077407836914
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Liability",
+        "runtime_sec": 14.520197868347168
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Asset",
+        "runtime_sec": 0.1103358268737793
+      }
+    ]
+  },
+  {
+    "transaction_id": 17,
+    "description": "Listen operation enough those society open.",
+    "amount": 9751.08,
+    "type": "transfer",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Other",
+        "runtime_sec": 0.6014680862426758
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 5.636245965957642
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Other",
+        "runtime_sec": 0.1090846061706543
+      }
+    ]
+  },
+  {
+    "transaction_id": 18,
+    "description": "Property strategy represent that.",
+    "amount": 1676.77,
+    "type": "transfer",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.2870423793792725
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Expense",
+        "runtime_sec": 5.975426197052002
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Other",
+        "runtime_sec": 0.10941267013549805
+      }
+    ]
+  },
+  {
+    "transaction_id": 19,
+    "description": "Soldier green age much sound write chair.",
+    "amount": 5159.9,
+    "type": "debit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Asset",
+        "runtime_sec": 1.724344253540039
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 7.892744541168213
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Expense",
+        "runtime_sec": 1.5860378742218018
+      }
+    ]
+  },
+  {
+    "transaction_id": 20,
+    "description": "What single suggest now stop.",
+    "amount": 6018.28,
+    "type": "debit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.3573570251464844
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Expense",
+        "runtime_sec": 8.208818674087524
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Expense",
+        "runtime_sec": 0.10948038101196289
+      }
+    ]
+  },
+  {
+    "transaction_id": 21,
+    "description": "Support do interesting citizen phone energy consider.",
+    "amount": 2359.42,
+    "type": "transfer",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Expense",
+        "runtime_sec": 0.7793395519256592
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Expense",
+        "runtime_sec": 5.527357578277588
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.5845329761505127
+      }
+    ]
+  },
+  {
+    "transaction_id": 22,
+    "description": "This pass civil education.",
+    "amount": 7626.52,
+    "type": "debit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.483588457107544
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Expense",
+        "runtime_sec": 8.096285104751587
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Revenue",
+        "runtime_sec": 2.7918601036071777
+      }
+    ]
+  },
+  {
+    "transaction_id": 23,
+    "description": "Choose between staff southern fine not manager nothing.",
+    "amount": 5356.25,
+    "type": "debit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.4521856307983398
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 9.589192390441895
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Expense",
+        "runtime_sec": 0.1103675365447998
+      }
+    ]
+  },
+  {
+    "transaction_id": 24,
+    "description": "Speak ever piece whom indicate she.",
+    "amount": 2488.02,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 0.9229037761688232
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Revenue",
+        "runtime_sec": 8.559680700302124
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.777836561203003
+      }
+    ]
+  },
+  {
+    "transaction_id": 25,
+    "description": "She cover impact program physical.",
+    "amount": 7752.41,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.3046305179595947
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Revenue",
+        "runtime_sec": 7.340013027191162
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Other",
+        "runtime_sec": 0.10887742042541504
+      }
+    ]
+  },
+  {
+    "transaction_id": 26,
+    "description": "Newspaper region sister whose man fight usually.",
+    "amount": 987.32,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 0.6181950569152832
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Liability",
+        "runtime_sec": 8.359900712966919
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Liability",
+        "runtime_sec": 1.7029314041137695
+      }
+    ]
+  },
+  {
+    "transaction_id": 27,
+    "description": "Lead talk military including system sometimes few within.",
+    "amount": 3919.23,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Expense",
+        "runtime_sec": 0.7255122661590576
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Revenue",
+        "runtime_sec": 6.517767667770386
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Revenue",
+        "runtime_sec": 1.928938388824463
+      }
+    ]
+  },
+  {
+    "transaction_id": 28,
+    "description": "Have focus admit again.",
+    "amount": 1281.53,
+    "type": "transfer",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Other",
+        "runtime_sec": 0.6009070873260498
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 8.338110208511353
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Revenue",
+        "runtime_sec": 3.1049270629882812
+      }
+    ]
+  },
+  {
+    "transaction_id": 29,
+    "description": "Write allow on.",
+    "amount": 1820.42,
+    "type": "credit",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Other",
+        "runtime_sec": 0.5081913471221924
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Other",
+        "runtime_sec": 19.617826461791992
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Asset",
+        "runtime_sec": 0.10961771011352539
+      }
+    ]
+  },
+  {
+    "transaction_id": 30,
+    "description": "Relate small employee.",
+    "amount": 5771.55,
+    "type": "transfer",
+    "predictions": [
+      {
+        "model": "Mistral",
+        "predicted_category": "Revenue",
+        "runtime_sec": 0.9445858001708984
+      },
+      {
+        "model": "Deepseek-R1",
+        "predicted_category": "Expense",
+        "runtime_sec": 6.487237930297852
+      },
+      {
+        "model": "Phi4:14B",
+        "predicted_category": "Expense",
+        "runtime_sec": 0.10844039916992188
+      }
+    ]
+  }
+]
